@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.0">
+
+	<id>com.christiancantrell.reversiipad</id>
+	
+	<supportedProfiles>desktop mobileDevice</supportedProfiles>
+
+	<filename>ReversiIpad</filename>
+
+	<name>ReversiIpad</name>
+
+	<version>1</version>
+
+	<description>A one or two player Reversi game.</description>
+
+	<!-- <copyright></copyright> -->
+
+	<initialWindow>
+		<autoOrients>true</autoOrients>
+		<fullScreen>true</fullScreen>
+		<!--<aspectRatio>portrait</aspectRatio>-->
+		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
+		<title>Reversi</title>
+		<systemChrome>none</systemChrome>
+		<transparent>false</transparent>
+		<visible>true</visible>
+
+		<!-- <minimizable></minimizable> -->
+		<!-- <maximizable></maximizable> -->
+		<!-- <resizable></resizable> -->
+		<width>1024</width>
+		<height>768</height>
+		<!-- <x></x> -->
+		<!-- <y></y> -->
+		<!-- <minSize></minSize> -->
+		<!-- <maxSize></maxSize> -->
+	</initialWindow>
+
+	<!-- <icon>
+		<image16x16></image16x16>
+		<image32x32></image32x32>
+		<image48x48></image48x48>
+		<image128x128></image128x128>
+	</icon> -->
+
+</application>
