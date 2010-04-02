@@ -28,8 +28,17 @@
 		<!-- <minimizable></minimizable> -->
 		<!-- <maximizable></maximizable> -->
 		<!-- <resizable></resizable> -->
+
+		<!-- Portrait -->
+		<!--
+		<width>768</width>
+		<height>1024</height>
+		-->
+
+		<!-- Landscape -->
 		<width>1024</width>
 		<height>768</height>
+
 		<x>100</x>
 		<y>100</y>
 		<!-- <minSize></minSize> -->
