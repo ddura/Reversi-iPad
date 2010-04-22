@@ -46,7 +46,7 @@
 	</initialWindow>
 
 	<icon>
-		<image16x16>assets/Reversi_72.png</image16x16>
+		<image72x72>assets/Reversi_72.png</image72x72>
 	</icon>
 
 </application>
