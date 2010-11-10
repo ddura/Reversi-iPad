@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <application xmlns="http://ns.adobe.com/air/application/2.0">
 
-	<id>com.christiancantrell.reversiipad</id>
+	<iPhone>
+	  <InfoAdditions>
+	    <![CDATA[
+	      <key>UIDeviceFamily</key>
+	      <array>
+	        <string>2</string>
+	      </array>
+	    ]]>
+	  </InfoAdditions>
+	</iPhone>
+
+	<id>ReversiIpad</id>
 	
 	<supportedProfiles>desktop mobileDevice</supportedProfiles>
 

@@ -47,7 +47,8 @@ package
 			super();
 			this.stage.scaleMode = StageScaleMode.NO_SCALE;
 			this.stage.align = StageAlign.TOP_LEFT;
-			this.reversi = new Reversi(132);
+			//this.reversi = new Reversi(132);
+			this.reversi = new Reversi(-1);
 			this.addChild(this.reversi);
 		}
 	}
